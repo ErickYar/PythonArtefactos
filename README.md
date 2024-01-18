@@ -1,6 +1,6 @@
 # PythonArtefactos
 
-- este proyecto es para ingresar Artefactos 
+- este proyecto es para ingresar artículos de una tienda como bebidas, lácteos, limpieza, etc
 - El proyecto se realizo netamente en PYTHON with DJANGO  
 
 
@@ -10,7 +10,7 @@ Ese es mi inicio en **PYTHYON**
 
 este proyecto  se necesita install '**_PYTHON_**'
 
-## Comando para utilizar en "Django" se porne el comando 
+## Comando para utilizar en "Django" se poner el comando 
 
 - '_pip install django_'
 
@@ -25,5 +25,10 @@ este proyecto  se necesita install '**_PYTHON_**'
 ## Para ejecutar este programa es con el
 - comando "python manage.py runserver "
 
-## rutas 
-- ' '
+# Imagen de la Web
+
+- ![Model ](app/image/model.jpg)
+- ![Actualizar](app/image/actualizar.jpg)
+- ![Lista de productos](app/image/lista_de_productos.jpg)
+
+
