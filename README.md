@@ -26,9 +26,11 @@ este proyecto  se necesita install '**_PYTHON_**'
 - comando "python manage.py runserver "
 
 # Imagen de la Web
-
-- ![Model ](app/image/model.jpg)
-- ![Actualizar](app/image/actualizar.jpg)
-- ![Lista de productos](app/image/lista_de_productos.jpg)
+- Model
+ ![Model ](app/image/model.jpg)
+- Actualizar
+ ![Actualizar](app/image/actualizar.jpg)
+- Lista de productos
+![productos](app/image/lista_de_productos.jpg)
 
 
